@@ -1,0 +1,17 @@
+{
+  "name": "mc_server",
+  "version": "1.0.0",
+  "description": "Mail Client Server",
+  "main": "index.js",
+  "author": "adrian@intellidroid.eu",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "mongoose": "^5.5.1"
+  }
+}
