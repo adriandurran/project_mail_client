@@ -1,5 +1,7 @@
 const resolvers = {
-  hello: () => 'world'
+  Query: {
+    hello: () => 'world'
+  }
 };
 
 export default resolvers;
